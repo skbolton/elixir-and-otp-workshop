@@ -7,3 +7,7 @@
 us = self()
 spawn(fn -> send(us, "hello my creator") end)
 ```
+
+* `send`
+* `receive do ...`
+* `flush`
