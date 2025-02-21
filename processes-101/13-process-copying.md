@@ -1,5 +1,9 @@
 # Process Structure
 
+```elixir
+iex> object = %{}
+iex> Stack.push(stack, object)
+```
 ```
 ╔═ Shell ═══════╤════════════════════════╗           ╔═ Stack ═══════╤════════════════════════╗
 ║  Mailbox      │ Call Stack             ║           ║  Mailbox      │ Call Stack             ║
