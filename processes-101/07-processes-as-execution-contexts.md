@@ -5,3 +5,4 @@
   * Supplied function ends
   * An unexpected error happens (crash)
   * Something else kills it
+* Processes don't have to die and can be long running programs
